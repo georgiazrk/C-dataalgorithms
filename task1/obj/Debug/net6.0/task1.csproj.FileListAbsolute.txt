@@ -1,0 +1,15 @@
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/obj/Debug/net6.0/task1.csproj.AssemblyReference.cache
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/obj/Debug/net6.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/obj/Debug/net6.0/task1.AssemblyInfoInputs.cache
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/obj/Debug/net6.0/task1.AssemblyInfo.cs
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/obj/Debug/net6.0/task1.csproj.CoreCompileInputs.cache
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/bin/Debug/net6.0/task1
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/bin/Debug/net6.0/task1.deps.json
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/bin/Debug/net6.0/task1.runtimeconfig.json
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/bin/Debug/net6.0/task1.dll
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/bin/Debug/net6.0/task1.pdb
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/obj/Debug/net6.0/task1.dll
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/obj/Debug/net6.0/refint/task1.dll
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/obj/Debug/net6.0/task1.pdb
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/obj/Debug/net6.0/task1.genruntimeconfig.cache
+/Users/georgiarobinson/Documents/2022 UNI/DataStructures/Assignment/task1/obj/Debug/net6.0/ref/task1.dll
